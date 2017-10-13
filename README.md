@@ -1,8 +1,8 @@
 # ZCW-MicroLabs-OOP-AliceAndBob
 
-## Forking Repository
+## `Fork` this Repository
 * You should work on this project in your own repository.
-* Click the fork button in the top right corner to create a copy of this repository on your github account.
+* Click the `fork` button in the top right corner to create a copy of this repository on your github account.
 * You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
 
 
