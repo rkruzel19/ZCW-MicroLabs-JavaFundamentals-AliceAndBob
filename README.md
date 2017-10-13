@@ -3,7 +3,7 @@
 ## Forking Repository
 * You should work on this project in your own repository.
 * Click the fork button in the top right corner to create a copy of this repository on your github account.
-* You can go through the GitHub forking tutorial if you need additional practice with this.
+* You can go through the [GitHub forking tutorial](https://help.github.com/articles/fork-a-repo/) if you need additional practice with this.
 
 
 ## Alice and Bob Greeting
