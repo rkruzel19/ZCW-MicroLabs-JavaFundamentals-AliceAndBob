@@ -8,11 +8,12 @@
 
 ## Alice and Bob Greeting
 
-### Objectives
-1. To demonstrate your understanding of objects
-2. To demonstrate your understanding of operators
-3. To demonstrate your understanding of user input
-4. To demonstrate your understanding of strings
+### Topics
+* object instantation/declaration
+* method invokation
+* operators
+* user input
+
 
 
 ### Overview
