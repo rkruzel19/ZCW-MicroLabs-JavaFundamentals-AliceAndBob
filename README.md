@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-OOP-AliceAndBob
+# ZCW-MicroLabs-JavaFundamentals-AliceAndBob
 
 ## `Fork` this Repository
 * You should work on this project in your own repository.
